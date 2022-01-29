@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="TEACHERS_PATH">src/main/resources/teachers.xml</entry>
+<entry key="COURSES_PATH">src/main/resources/courses.xml</entry>
+<entry key="LOAD_TYPE">HARDCODED</entry>
+<entry key="STUDENTS_PATH">src/main/resources/students.xml</entry>
+<entry key="DISPLAY_TYPE">CONSOLE</entry>
+</properties>
